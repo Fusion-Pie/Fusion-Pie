@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fusion-pie" alt="fusion-pie" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce website**
-
 - 🌱 I’m currently learning **Django, Sql**
 
 <h3 align="left">Connect with me:</h3>
